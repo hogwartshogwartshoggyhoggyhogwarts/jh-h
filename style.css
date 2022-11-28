@@ -1,0 +1,19 @@
+.heading {
+    width:80%;
+    font-size:32px;    
+}
+body {
+    color:black;
+    background-color:blanchedalmond;
+}
+.name_of_objects {
+font-size: 22px;
+}
+hr{
+    color: black;
+}
+#camera,#result {
+    border:2px solid cadetblue;
+    width:350px;
+    height:350px;
+}
